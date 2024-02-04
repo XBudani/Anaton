@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* styles.css */
+@layer base {
+    /* Reset padding and margin */
+    * {
+      padding: 0;
+      margin: 0;
+    }
+  }
+  
